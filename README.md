@@ -69,19 +69,23 @@ The public Atlas Horizonte demo is live. This repository is a portfolio presenta
 
 ## Screenshots
 
-### Desktop — Homepage
+### Desktop
+
+#### Atlas Horizonte homepage — desktop
 
 ![Atlas Horizonte homepage on desktop](screenshots/atlas-horizonte-home-desktop.png)
 
-### Desktop — Destination Guide
+#### Atlas Horizonte destination page — desktop
 
 ![Atlas Horizonte destination guide on desktop](screenshots/atlas-horizonte-destination-desktop.png)
 
-### Mobile — Homepage
+### Mobile
+
+#### Atlas Horizonte homepage — mobile
 
 ![Atlas Horizonte homepage on mobile](screenshots/atlas-horizonte-home-mobile.png)
 
-### Mobile — Destination Guide
+#### Atlas Horizonte destination page — mobile
 
 ![Atlas Horizonte destination guide on mobile](screenshots/atlas-horizonte-destination-mobile.png)
 

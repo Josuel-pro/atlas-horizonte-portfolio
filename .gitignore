@@ -1,0 +1,31 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+service-account.json
+firebase-adminsdk.json
+secrets.*
+
+# Dependencies and generated files
+node_modules/
+logs/
+*.log
+.firebase/
+.deploy-npm-cache/
+__pycache__/
+*.py[cod]
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local screenshots and temporary exports
+*.tmp
+*.bak

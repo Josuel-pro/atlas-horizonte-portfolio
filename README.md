@@ -48,7 +48,7 @@ The published pages implement page-specific titles and meta descriptions, canoni
 
 The live project is a multi-page static website built with semantic HTML, CSS, and browser JavaScript. It uses responsive layout rules, accessible labels and controls, external destination imagery, and consent-aware analytics and advertising integrations. The site is published through Firebase Hosting.
 
-The public GitHub presentation contains documentation only. It does not publish the complete implementation source or deployment files.
+The public GitHub presentation contains documentation and public interface screenshots only. It does not publish the complete implementation source or deployment files.
 
 ## Challenges
 
@@ -69,7 +69,21 @@ The public Atlas Horizonte demo is live. This repository is a portfolio presenta
 
 ## Screenshots
 
-The screenshots folder contains capture guidance for adding public interface views. Only product UI screenshots should be added: desktop and mobile views of the homepage and a destination guide page. No source code, terminals, credentials, private dashboards, or administrative URLs belong in this repository.
+### Desktop — Homepage
+
+![Atlas Horizonte homepage on desktop](screenshots/atlas-horizonte-home-desktop.png)
+
+### Desktop — Destination Guide
+
+![Atlas Horizonte destination guide on desktop](screenshots/atlas-horizonte-destination-desktop.png)
+
+### Mobile — Homepage
+
+![Atlas Horizonte homepage on mobile](screenshots/atlas-horizonte-home-mobile.png)
+
+### Mobile — Destination Guide
+
+![Atlas Horizonte destination guide on mobile](screenshots/atlas-horizonte-destination-mobile.png)
 
 ## Safety Note
 
